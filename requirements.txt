@@ -2,5 +2,7 @@ fastapi
 uvicorn
 httpx
 pydantic
+pydantic-settings
 python-dotenv
-google-generativeai
+google-genai
+aiogram>=3.0
